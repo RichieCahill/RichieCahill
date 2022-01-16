@@ -1,5 +1,5 @@
-``` cout << "Hello World" << endl;
-
+```cpp
+cout << "Hello World" << endl;
 ```
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
