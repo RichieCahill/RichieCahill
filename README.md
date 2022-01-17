@@ -1,6 +1,6 @@
-```cpp
-cout << "Hello World" << endl;
-```
+<div align="center">
+    <img src="test.svg" width="400" height="400" alt="css-in-readme">
+</div>
 
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMadMaker2&layout=compact&theme=radical" />
