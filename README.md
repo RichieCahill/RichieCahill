@@ -1,5 +1,5 @@
 ```cpp
-cout << "Hello World" << endl;\
+cout << "Hello World" << endl;
 ```
 
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
