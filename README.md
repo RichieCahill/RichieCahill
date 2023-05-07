@@ -1,6 +1,12 @@
 ```py
 print("HELLO WORLD!")
 ```
+HIGH ENERGY!
+
+ADHD
+DISLEXIA
+
+
 
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMadMaker2&layout=compact&theme=radical" />
