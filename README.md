@@ -1,3 +1,7 @@
+I'm one of the the crazy ones that thinks different. I have be described as a hard core computer nerd. Best compliment ever in my opinion. I dabble in EVERYTHING a few are welding, CAD, PCB design, mechanics, woodworking, running servers and programing. 
+
+This last one needs its own list because of touched Rust, Bash, CPP, ASM, JavaScript, Python and more to come.
+
 ```py
 print("HELLO WORLD!")
 ```
